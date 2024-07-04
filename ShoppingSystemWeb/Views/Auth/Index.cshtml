@@ -1,0 +1,48 @@
+﻿@model UserViewModel
+
+<div id="register-form" class="container mt-5">
+    <h3 class="m-3">Register</h3>
+    <form asp-controller="Auth" asp-action="RegisterUser">
+        <div class="mb-3">
+            <label asp-for="Id" class="form-label">User Id</label>
+            <input asp-for="Id" type="text" class="form-control" id="Id" name="Id" placeholder="Enter User Id">
+        </div>
+        <div class="mb-3">
+            <label asp-for="Password" class="form-label">Password</label>
+            <input type="password" class="form-control" id="Password" name="Password" placeholder="Enter Password">
+        </div>
+        <div class="mb-3">
+            <label asp-for="Name" class="form-label">Name</label>
+            <input asp-for="Name" type="text" class="form-control" id="Name" name="Name" placeholder="Enter Name">
+        </div>
+        <div class="mb-3">
+            <label asp-for="Role" class="form-label">Role</label>
+            <select asp-for="Role" class="form-select" id="role" name="Role" onchange="roleChanged(this)">
+                <option value="User">User</option>
+                <option value="Admin">Admin</option>
+            </select>
+        </div>
+        <button type="submit" class="btn btn-primary">Submit</button>
+    </form>
+    <button onclick="loginButtonClicked()" class="btn btn-secondary mt-3">Login</button>
+</div>
+
+<div id="login-form" class="container mt-5">
+    <h3 class="m-3">Login</h3>
+    <form asp-controller="Auth" asp-action="Login">
+        <div class="mb-3">
+            <label asp-for="Id" class="form-label">User Id</label>
+            <input asp-for="Id" type="text" class="form-control" id="Id" name="Id" placeholder="Enter User Id">
+        </div>
+        <div class="mb-3">
+            <label asp-for="Password" class="form-label">Password</label>
+            <input asp-for="Password" type="password" class="form-control" id="Password" name="Password" placeholder="Enter Password">
+        </div>
+        <button type="submit" class="btn btn-primary">Submit</button>
+    </form>
+    <button onclick="registerButtonClicked()" class="btn btn-secondary mt-3">Register</button>
+</div>
+
+@section Scripts {
+    <script src="~/js/auth.js" asp-append-version="true"></script>
+}

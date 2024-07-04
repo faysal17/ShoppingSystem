@@ -1,0 +1,12 @@
+﻿@model IEnumerable<ProductViewModel>
+
+<div class="row">
+    @foreach (ProductViewModel product in Model)
+    {
+        <div class="col-3 border m-1">
+            <h4>@product.Title</h4>
+            <p>@product.Description</p>
+            <p class="">@product.Price</p>
+        </div>
+    }
+</div>

@@ -1,0 +1,986 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\faysa\\Downloads\\ShoppingSystem-20231018T091501Z-001\\ShoppingSystem\\ShoppingSystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3E212180-0E49-4FA5-A606-BC8D4D441C05}|ShoppingSystemAPI\\ShoppingSystemAPI.csproj|c:\\users\\faysa\\downloads\\shoppingsystem-20231018t091501z-001\\shoppingsystem\\shoppingsystem\\shoppingsystemapi\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E212180-0E49-4FA5-A606-BC8D4D441C05}|ShoppingSystemAPI\\ShoppingSystemAPI.csproj|solutionrelative:shoppingsystemapi\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F6F099D-FC13-430D-B0BC-B4BFFD72AD13}|ShoppingSystemData\\ShoppingSystemData.csproj|c:\\users\\faysa\\downloads\\shoppingsystem-20231018t091501z-001\\shoppingsystem\\shoppingsystem\\shoppingsystemdata\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F6F099D-FC13-430D-B0BC-B4BFFD72AD13}|ShoppingSystemData\\ShoppingSystemData.csproj|solutionrelative:shoppingsystemdata\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87518DAD-54DD-4DB5-BC22-0B9D10962C7A}|ShoppingSystemServices\\ShoppingSystemServices.csproj|c:\\users\\faysa\\downloads\\shoppingsystem-20231018t091501z-001\\shoppingsystem\\shoppingsystem\\shoppingsystemservices\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87518DAD-54DD-4DB5-BC22-0B9D10962C7A}|ShoppingSystemServices\\ShoppingSystemServices.csproj|solutionrelative:shoppingsystemservices\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC336710-E36E-40CC-B2BF-1F0208C74686}|ShoppingSystemCore\\ShoppingSystemCore.csproj|c:\\users\\faysa\\downloads\\shoppingsystem-20231018t091501z-001\\shoppingsystem\\shoppingsystem\\shoppingsystemcore\\abstraction\\services\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC336710-E36E-40CC-B2BF-1F0208C74686}|ShoppingSystemCore\\ShoppingSystemCore.csproj|solutionrelative:shoppingsystemcore\\abstraction\\services\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1306756-0A04-455D-8A19-5A66676CC5A7}|ShoppingSystemWeb\\ShoppingSystemWeb.csproj|c:\\users\\faysa\\downloads\\shoppingsystem-20231018t091501z-001\\shoppingsystem\\shoppingsystem\\shoppingsystemweb\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1306756-0A04-455D-8A19-5A66676CC5A7}|ShoppingSystemWeb\\ShoppingSystemWeb.csproj|solutionrelative:shoppingsystemweb\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E212180-0E49-4FA5-A606-BC8D4D441C05}|ShoppingSystemAPI\\ShoppingSystemAPI.csproj|c:\\users\\faysa\\downloads\\shoppingsystem-20231018t091501z-001\\shoppingsystem\\shoppingsystem\\shoppingsystemapi\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E212180-0E49-4FA5-A606-BC8D4D441C05}|ShoppingSystemAPI\\ShoppingSystemAPI.csproj|solutionrelative:shoppingsystemapi\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1306756-0A04-455D-8A19-5A66676CC5A7}|ShoppingSystemWeb\\ShoppingSystemWeb.csproj|c:\\users\\faysa\\downloads\\shoppingsystem-20231018t091501z-001\\shoppingsystem\\shoppingsystem\\shoppingsystemweb\\filters\\customresultfilterattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1306756-0A04-455D-8A19-5A66676CC5A7}|ShoppingSystemWeb\\ShoppingSystemWeb.csproj|solutionrelative:shoppingsystemweb\\filters\\customresultfilterattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1306756-0A04-455D-8A19-5A66676CC5A7}|ShoppingSystemWeb\\ShoppingSystemWeb.csproj|c:\\users\\faysa\\downloads\\shoppingsystem-20231018t091501z-001\\shoppingsystem\\shoppingsystem\\shoppingsystemweb\\filters\\customactionfilterattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1306756-0A04-455D-8A19-5A66676CC5A7}|ShoppingSystemWeb\\ShoppingSystemWeb.csproj|solutionrelative:shoppingsystemweb\\filters\\customactionfilterattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1306756-0A04-455D-8A19-5A66676CC5A7}|ShoppingSystemWeb\\ShoppingSystemWeb.csproj|c:\\users\\faysa\\downloads\\shoppingsystem-20231018t091501z-001\\shoppingsystem\\shoppingsystem\\shoppingsystemweb\\filters\\customexceptionfilterattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1306756-0A04-455D-8A19-5A66676CC5A7}|ShoppingSystemWeb\\ShoppingSystemWeb.csproj|solutionrelative:shoppingsystemweb\\filters\\customexceptionfilterattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1306756-0A04-455D-8A19-5A66676CC5A7}|ShoppingSystemWeb\\ShoppingSystemWeb.csproj|c:\\users\\faysa\\downloads\\shoppingsystem-20231018t091501z-001\\shoppingsystem\\shoppingsystem\\shoppingsystemweb\\filters\\customresourcefilterattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1306756-0A04-455D-8A19-5A66676CC5A7}|ShoppingSystemWeb\\ShoppingSystemWeb.csproj|solutionrelative:shoppingsystemweb\\filters\\customresourcefilterattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E212180-0E49-4FA5-A606-BC8D4D441C05}|ShoppingSystemAPI\\ShoppingSystemAPI.csproj|c:\\users\\faysa\\downloads\\shoppingsystem-20231018t091501z-001\\shoppingsystem\\shoppingsystem\\shoppingsystemapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E212180-0E49-4FA5-A606-BC8D4D441C05}|ShoppingSystemAPI\\ShoppingSystemAPI.csproj|solutionrelative:shoppingsystemapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F6F099D-FC13-430D-B0BC-B4BFFD72AD13}|ShoppingSystemData\\ShoppingSystemData.csproj|c:\\users\\faysa\\downloads\\shoppingsystem-20231018t091501z-001\\shoppingsystem\\shoppingsystem\\shoppingsystemdata\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F6F099D-FC13-430D-B0BC-B4BFFD72AD13}|ShoppingSystemData\\ShoppingSystemData.csproj|solutionrelative:shoppingsystemdata\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87518DAD-54DD-4DB5-BC22-0B9D10962C7A}|ShoppingSystemServices\\ShoppingSystemServices.csproj|c:\\users\\faysa\\downloads\\shoppingsystem-20231018t091501z-001\\shoppingsystem\\shoppingsystem\\shoppingsystemservices\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87518DAD-54DD-4DB5-BC22-0B9D10962C7A}|ShoppingSystemServices\\ShoppingSystemServices.csproj|solutionrelative:shoppingsystemservices\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87518DAD-54DD-4DB5-BC22-0B9D10962C7A}|ShoppingSystemServices\\ShoppingSystemServices.csproj|c:\\users\\faysa\\downloads\\shoppingsystem-20231018t091501z-001\\shoppingsystem\\shoppingsystem\\shoppingsystemservices\\globalusings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87518DAD-54DD-4DB5-BC22-0B9D10962C7A}|ShoppingSystemServices\\ShoppingSystemServices.csproj|solutionrelative:shoppingsystemservices\\globalusings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87518DAD-54DD-4DB5-BC22-0B9D10962C7A}|ShoppingSystemServices\\ShoppingSystemServices.csproj|c:\\users\\faysa\\downloads\\shoppingsystem-20231018t091501z-001\\shoppingsystem\\shoppingsystem\\shoppingsystemservices\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87518DAD-54DD-4DB5-BC22-0B9D10962C7A}|ShoppingSystemServices\\ShoppingSystemServices.csproj|solutionrelative:shoppingsystemservices\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1306756-0A04-455D-8A19-5A66676CC5A7}|ShoppingSystemWeb\\ShoppingSystemWeb.csproj|c:\\users\\faysa\\downloads\\shoppingsystem-20231018t091501z-001\\shoppingsystem\\shoppingsystem\\shoppingsystemweb\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1306756-0A04-455D-8A19-5A66676CC5A7}|ShoppingSystemWeb\\ShoppingSystemWeb.csproj|solutionrelative:shoppingsystemweb\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1306756-0A04-455D-8A19-5A66676CC5A7}|ShoppingSystemWeb\\ShoppingSystemWeb.csproj|c:\\users\\faysa\\downloads\\shoppingsystem-20231018t091501z-001\\shoppingsystem\\shoppingsystem\\shoppingsystemweb\\controllers\\manageproductcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1306756-0A04-455D-8A19-5A66676CC5A7}|ShoppingSystemWeb\\ShoppingSystemWeb.csproj|solutionrelative:shoppingsystemweb\\controllers\\manageproductcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1306756-0A04-455D-8A19-5A66676CC5A7}|ShoppingSystemWeb\\ShoppingSystemWeb.csproj|c:\\users\\faysa\\downloads\\shoppingsystem-20231018t091501z-001\\shoppingsystem\\shoppingsystem\\shoppingsystemweb\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1306756-0A04-455D-8A19-5A66676CC5A7}|ShoppingSystemWeb\\ShoppingSystemWeb.csproj|solutionrelative:shoppingsystemweb\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1306756-0A04-455D-8A19-5A66676CC5A7}|ShoppingSystemWeb\\ShoppingSystemWeb.csproj|c:\\users\\faysa\\downloads\\shoppingsystem-20231018t091501z-001\\shoppingsystem\\shoppingsystem\\shoppingsystemweb\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1306756-0A04-455D-8A19-5A66676CC5A7}|ShoppingSystemWeb\\ShoppingSystemWeb.csproj|solutionrelative:shoppingsystemweb\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1306756-0A04-455D-8A19-5A66676CC5A7}|ShoppingSystemWeb\\ShoppingSystemWeb.csproj|c:\\users\\faysa\\downloads\\shoppingsystem-20231018t091501z-001\\shoppingsystem\\shoppingsystem\\shoppingsystemweb\\models\\errormessagemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1306756-0A04-455D-8A19-5A66676CC5A7}|ShoppingSystemWeb\\ShoppingSystemWeb.csproj|solutionrelative:shoppingsystemweb\\models\\errormessagemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC336710-E36E-40CC-B2BF-1F0208C74686}|ShoppingSystemCore\\ShoppingSystemCore.csproj|c:\\users\\faysa\\downloads\\shoppingsystem-20231018t091501z-001\\shoppingsystem\\shoppingsystem\\shoppingsystemcore\\abstraction\\repositories\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC336710-E36E-40CC-B2BF-1F0208C74686}|ShoppingSystemCore\\ShoppingSystemCore.csproj|solutionrelative:shoppingsystemcore\\abstraction\\repositories\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1306756-0A04-455D-8A19-5A66676CC5A7}|ShoppingSystemWeb\\ShoppingSystemWeb.csproj|c:\\users\\faysa\\downloads\\shoppingsystem-20231018t091501z-001\\shoppingsystem\\shoppingsystem\\shoppingsystemweb\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1306756-0A04-455D-8A19-5A66676CC5A7}|ShoppingSystemWeb\\ShoppingSystemWeb.csproj|solutionrelative:shoppingsystemweb\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1306756-0A04-455D-8A19-5A66676CC5A7}|ShoppingSystemWeb\\ShoppingSystemWeb.csproj|c:\\users\\faysa\\downloads\\shoppingsystem-20231018t091501z-001\\shoppingsystem\\shoppingsystem\\shoppingsystemweb\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C1306756-0A04-455D-8A19-5A66676CC5A7}|ShoppingSystemWeb\\ShoppingSystemWeb.csproj|solutionrelative:shoppingsystemweb\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC336710-E36E-40CC-B2BF-1F0208C74686}|ShoppingSystemCore\\ShoppingSystemCore.csproj|c:\\users\\faysa\\downloads\\shoppingsystem-20231018t091501z-001\\shoppingsystem\\shoppingsystem\\shoppingsystemcore\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC336710-E36E-40CC-B2BF-1F0208C74686}|ShoppingSystemCore\\ShoppingSystemCore.csproj|solutionrelative:shoppingsystemcore\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F6F099D-FC13-430D-B0BC-B4BFFD72AD13}|ShoppingSystemData\\ShoppingSystemData.csproj|c:\\users\\faysa\\downloads\\shoppingsystem-20231018t091501z-001\\shoppingsystem\\shoppingsystem\\shoppingsystemdata\\repositories\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F6F099D-FC13-430D-B0BC-B4BFFD72AD13}|ShoppingSystemData\\ShoppingSystemData.csproj|solutionrelative:shoppingsystemdata\\repositories\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1306756-0A04-455D-8A19-5A66676CC5A7}|ShoppingSystemWeb\\ShoppingSystemWeb.csproj|c:\\users\\faysa\\downloads\\shoppingsystem-20231018t091501z-001\\shoppingsystem\\shoppingsystem\\shoppingsystemweb\\views\\error\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C1306756-0A04-455D-8A19-5A66676CC5A7}|ShoppingSystemWeb\\ShoppingSystemWeb.csproj|solutionrelative:shoppingsystemweb\\views\\error\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1306756-0A04-455D-8A19-5A66676CC5A7}|ShoppingSystemWeb\\ShoppingSystemWeb.csproj|c:\\users\\faysa\\downloads\\shoppingsystem-20231018t091501z-001\\shoppingsystem\\shoppingsystem\\shoppingsystemweb\\controllers\\errorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1306756-0A04-455D-8A19-5A66676CC5A7}|ShoppingSystemWeb\\ShoppingSystemWeb.csproj|solutionrelative:shoppingsystemweb\\controllers\\errorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1306756-0A04-455D-8A19-5A66676CC5A7}|ShoppingSystemWeb\\ShoppingSystemWeb.csproj|c:\\users\\faysa\\downloads\\shoppingsystem-20231018t091501z-001\\shoppingsystem\\shoppingsystem\\shoppingsystemweb\\globalusings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1306756-0A04-455D-8A19-5A66676CC5A7}|ShoppingSystemWeb\\ShoppingSystemWeb.csproj|solutionrelative:shoppingsystemweb\\globalusings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1306756-0A04-455D-8A19-5A66676CC5A7}|ShoppingSystemWeb\\ShoppingSystemWeb.csproj|c:\\users\\faysa\\downloads\\shoppingsystem-20231018t091501z-001\\shoppingsystem\\shoppingsystem\\shoppingsystemweb\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C1306756-0A04-455D-8A19-5A66676CC5A7}|ShoppingSystemWeb\\ShoppingSystemWeb.csproj|solutionrelative:shoppingsystemweb\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1306756-0A04-455D-8A19-5A66676CC5A7}|ShoppingSystemWeb\\ShoppingSystemWeb.csproj|c:\\users\\faysa\\downloads\\shoppingsystem-20231018t091501z-001\\shoppingsystem\\shoppingsystem\\shoppingsystemweb\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C1306756-0A04-455D-8A19-5A66676CC5A7}|ShoppingSystemWeb\\ShoppingSystemWeb.csproj|solutionrelative:shoppingsystemweb\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1306756-0A04-455D-8A19-5A66676CC5A7}|ShoppingSystemWeb\\ShoppingSystemWeb.csproj|c:\\users\\faysa\\downloads\\shoppingsystem-20231018t091501z-001\\shoppingsystem\\shoppingsystem\\shoppingsystemweb\\models\\productviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1306756-0A04-455D-8A19-5A66676CC5A7}|ShoppingSystemWeb\\ShoppingSystemWeb.csproj|solutionrelative:shoppingsystemweb\\models\\productviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1306756-0A04-455D-8A19-5A66676CC5A7}|ShoppingSystemWeb\\ShoppingSystemWeb.csproj|c:\\users\\faysa\\downloads\\shoppingsystem-20231018t091501z-001\\shoppingsystem\\shoppingsystem\\shoppingsystemweb\\services\\apiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1306756-0A04-455D-8A19-5A66676CC5A7}|ShoppingSystemWeb\\ShoppingSystemWeb.csproj|solutionrelative:shoppingsystemweb\\services\\apiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1306756-0A04-455D-8A19-5A66676CC5A7}|ShoppingSystemWeb\\ShoppingSystemWeb.csproj|c:\\users\\faysa\\downloads\\shoppingsystem-20231018t091501z-001\\shoppingsystem\\shoppingsystem\\shoppingsystemweb\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C1306756-0A04-455D-8A19-5A66676CC5A7}|ShoppingSystemWeb\\ShoppingSystemWeb.csproj|solutionrelative:shoppingsystemweb\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1306756-0A04-455D-8A19-5A66676CC5A7}|ShoppingSystemWeb\\ShoppingSystemWeb.csproj|c:\\users\\faysa\\downloads\\shoppingsystem-20231018t091501z-001\\shoppingsystem\\shoppingsystem\\shoppingsystemweb\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C1306756-0A04-455D-8A19-5A66676CC5A7}|ShoppingSystemWeb\\ShoppingSystemWeb.csproj|solutionrelative:shoppingsystemweb\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1306756-0A04-455D-8A19-5A66676CC5A7}|ShoppingSystemWeb\\ShoppingSystemWeb.csproj|c:\\users\\faysa\\downloads\\shoppingsystem-20231018t091501z-001\\shoppingsystem\\shoppingsystem\\shoppingsystemweb\\views\\manageproduct\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C1306756-0A04-455D-8A19-5A66676CC5A7}|ShoppingSystemWeb\\ShoppingSystemWeb.csproj|solutionrelative:shoppingsystemweb\\views\\manageproduct\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1306756-0A04-455D-8A19-5A66676CC5A7}|ShoppingSystemWeb\\ShoppingSystemWeb.csproj|c:\\users\\faysa\\downloads\\shoppingsystem-20231018t091501z-001\\shoppingsystem\\shoppingsystem\\shoppingsystemweb\\abstractions\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1306756-0A04-455D-8A19-5A66676CC5A7}|ShoppingSystemWeb\\ShoppingSystemWeb.csproj|solutionrelative:shoppingsystemweb\\abstractions\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1306756-0A04-455D-8A19-5A66676CC5A7}|ShoppingSystemWeb\\ShoppingSystemWeb.csproj|c:\\users\\faysa\\downloads\\shoppingsystem-20231018t091501z-001\\shoppingsystem\\shoppingsystem\\shoppingsystemweb\\abstractions\\ihttpservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1306756-0A04-455D-8A19-5A66676CC5A7}|ShoppingSystemWeb\\ShoppingSystemWeb.csproj|solutionrelative:shoppingsystemweb\\abstractions\\ihttpservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1306756-0A04-455D-8A19-5A66676CC5A7}|ShoppingSystemWeb\\ShoppingSystemWeb.csproj|c:\\users\\faysa\\downloads\\shoppingsystem-20231018t091501z-001\\shoppingsystem\\shoppingsystem\\shoppingsystemweb\\services\\httpservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1306756-0A04-455D-8A19-5A66676CC5A7}|ShoppingSystemWeb\\ShoppingSystemWeb.csproj|solutionrelative:shoppingsystemweb\\services\\httpservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1306756-0A04-455D-8A19-5A66676CC5A7}|ShoppingSystemWeb\\ShoppingSystemWeb.csproj|c:\\users\\faysa\\downloads\\shoppingsystem-20231018t091501z-001\\shoppingsystem\\shoppingsystem\\shoppingsystemweb\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1306756-0A04-455D-8A19-5A66676CC5A7}|ShoppingSystemWeb\\ShoppingSystemWeb.csproj|solutionrelative:shoppingsystemweb\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC336710-E36E-40CC-B2BF-1F0208C74686}|ShoppingSystemCore\\ShoppingSystemCore.csproj|c:\\users\\faysa\\downloads\\shoppingsystem-20231018t091501z-001\\shoppingsystem\\shoppingsystem\\shoppingsystemcore\\abstraction\\services\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC336710-E36E-40CC-B2BF-1F0208C74686}|ShoppingSystemCore\\ShoppingSystemCore.csproj|solutionrelative:shoppingsystemcore\\abstraction\\services\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1306756-0A04-455D-8A19-5A66676CC5A7}|ShoppingSystemWeb\\ShoppingSystemWeb.csproj|c:\\users\\faysa\\downloads\\shoppingsystem-20231018t091501z-001\\shoppingsystem\\shoppingsystem\\shoppingsystemweb\\shoppingsystemweb.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{C1306756-0A04-455D-8A19-5A66676CC5A7}|ShoppingSystemWeb\\ShoppingSystemWeb.csproj|solutionrelative:shoppingsystemweb\\shoppingsystemweb.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC336710-E36E-40CC-B2BF-1F0208C74686}|ShoppingSystemCore\\ShoppingSystemCore.csproj|c:\\users\\faysa\\downloads\\shoppingsystem-20231018t091501z-001\\shoppingsystem\\shoppingsystem\\shoppingsystemcore\\abstraction\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC336710-E36E-40CC-B2BF-1F0208C74686}|ShoppingSystemCore\\ShoppingSystemCore.csproj|solutionrelative:shoppingsystemcore\\abstraction\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F6F099D-FC13-430D-B0BC-B4BFFD72AD13}|ShoppingSystemData\\ShoppingSystemData.csproj|c:\\users\\faysa\\downloads\\shoppingsystem-20231018t091501z-001\\shoppingsystem\\shoppingsystem\\shoppingsystemdata\\repositories\\baserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F6F099D-FC13-430D-B0BC-B4BFFD72AD13}|ShoppingSystemData\\ShoppingSystemData.csproj|solutionrelative:shoppingsystemdata\\repositories\\baserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1306756-0A04-455D-8A19-5A66676CC5A7}|ShoppingSystemWeb\\ShoppingSystemWeb.csproj|c:\\users\\faysa\\downloads\\shoppingsystem-20231018t091501z-001\\shoppingsystem\\shoppingsystem\\shoppingsystemweb\\views\\auth\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C1306756-0A04-455D-8A19-5A66676CC5A7}|ShoppingSystemWeb\\ShoppingSystemWeb.csproj|solutionrelative:shoppingsystemweb\\views\\auth\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC336710-E36E-40CC-B2BF-1F0208C74686}|ShoppingSystemCore\\ShoppingSystemCore.csproj|c:\\users\\faysa\\downloads\\shoppingsystem-20231018t091501z-001\\shoppingsystem\\shoppingsystem\\shoppingsystemcore\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC336710-E36E-40CC-B2BF-1F0208C74686}|ShoppingSystemCore\\ShoppingSystemCore.csproj|solutionrelative:shoppingsystemcore\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC336710-E36E-40CC-B2BF-1F0208C74686}|ShoppingSystemCore\\ShoppingSystemCore.csproj|c:\\users\\faysa\\downloads\\shoppingsystem-20231018t091501z-001\\shoppingsystem\\shoppingsystem\\shoppingsystemcore\\abstraction\\services\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC336710-E36E-40CC-B2BF-1F0208C74686}|ShoppingSystemCore\\ShoppingSystemCore.csproj|solutionrelative:shoppingsystemcore\\abstraction\\services\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1306756-0A04-455D-8A19-5A66676CC5A7}|ShoppingSystemWeb\\ShoppingSystemWeb.csproj|c:\\users\\faysa\\downloads\\shoppingsystem-20231018t091501z-001\\shoppingsystem\\shoppingsystem\\shoppingsystemweb\\models\\userviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1306756-0A04-455D-8A19-5A66676CC5A7}|ShoppingSystemWeb\\ShoppingSystemWeb.csproj|solutionrelative:shoppingsystemweb\\models\\userviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1306756-0A04-455D-8A19-5A66676CC5A7}|ShoppingSystemWeb\\ShoppingSystemWeb.csproj|c:\\users\\faysa\\downloads\\shoppingsystem-20231018t091501z-001\\shoppingsystem\\shoppingsystem\\shoppingsystemweb\\wwwroot\\js\\auth.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{C1306756-0A04-455D-8A19-5A66676CC5A7}|ShoppingSystemWeb\\ShoppingSystemWeb.csproj|solutionrelative:shoppingsystemweb\\wwwroot\\js\\auth.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1306756-0A04-455D-8A19-5A66676CC5A7}|ShoppingSystemWeb\\ShoppingSystemWeb.csproj|c:\\users\\faysa\\downloads\\shoppingsystem-20231018t091501z-001\\shoppingsystem\\shoppingsystem\\shoppingsystemweb\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{C1306756-0A04-455D-8A19-5A66676CC5A7}|ShoppingSystemWeb\\ShoppingSystemWeb.csproj|solutionrelative:shoppingsystemweb\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1306756-0A04-455D-8A19-5A66676CC5A7}|ShoppingSystemWeb\\ShoppingSystemWeb.csproj|c:\\users\\faysa\\downloads\\shoppingsystem-20231018t091501z-001\\shoppingsystem\\shoppingsystem\\shoppingsystemweb\\abstractions\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1306756-0A04-455D-8A19-5A66676CC5A7}|ShoppingSystemWeb\\ShoppingSystemWeb.csproj|solutionrelative:shoppingsystemweb\\abstractions\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC336710-E36E-40CC-B2BF-1F0208C74686}|ShoppingSystemCore\\ShoppingSystemCore.csproj|c:\\users\\faysa\\downloads\\shoppingsystem-20231018t091501z-001\\shoppingsystem\\shoppingsystem\\shoppingsystemcore\\abstraction\\repositories\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC336710-E36E-40CC-B2BF-1F0208C74686}|ShoppingSystemCore\\ShoppingSystemCore.csproj|solutionrelative:shoppingsystemcore\\abstraction\\repositories\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1306756-0A04-455D-8A19-5A66676CC5A7}|ShoppingSystemWeb\\ShoppingSystemWeb.csproj|c:\\users\\faysa\\downloads\\shoppingsystem-20231018t091501z-001\\shoppingsystem\\shoppingsystem\\shoppingsystemweb\\abstractions\\iapiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1306756-0A04-455D-8A19-5A66676CC5A7}|ShoppingSystemWeb\\ShoppingSystemWeb.csproj|solutionrelative:shoppingsystemweb\\abstractions\\iapiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E212180-0E49-4FA5-A606-BC8D4D441C05}|ShoppingSystemAPI\\ShoppingSystemAPI.csproj|c:\\users\\faysa\\downloads\\shoppingsystem-20231018t091501z-001\\shoppingsystem\\shoppingsystem\\shoppingsystemapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{3E212180-0E49-4FA5-A606-BC8D4D441C05}|ShoppingSystemAPI\\ShoppingSystemAPI.csproj|solutionrelative:shoppingsystemapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E212180-0E49-4FA5-A606-BC8D4D441C05}|ShoppingSystemAPI\\ShoppingSystemAPI.csproj|c:\\users\\faysa\\downloads\\shoppingsystem-20231018t091501z-001\\shoppingsystem\\shoppingsystem\\shoppingsystemapi\\applicationconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E212180-0E49-4FA5-A606-BC8D4D441C05}|ShoppingSystemAPI\\ShoppingSystemAPI.csproj|solutionrelative:shoppingsystemapi\\applicationconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E212180-0E49-4FA5-A606-BC8D4D441C05}|ShoppingSystemAPI\\ShoppingSystemAPI.csproj|c:\\users\\faysa\\downloads\\shoppingsystem-20231018t091501z-001\\shoppingsystem\\shoppingsystem\\shoppingsystemapi\\globalusings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E212180-0E49-4FA5-A606-BC8D4D441C05}|ShoppingSystemAPI\\ShoppingSystemAPI.csproj|solutionrelative:shoppingsystemapi\\globalusings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC336710-E36E-40CC-B2BF-1F0208C74686}|ShoppingSystemCore\\ShoppingSystemCore.csproj|c:\\users\\faysa\\downloads\\shoppingsystem-20231018t091501z-001\\shoppingsystem\\shoppingsystem\\shoppingsystemcore\\abstraction\\iapplicationconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC336710-E36E-40CC-B2BF-1F0208C74686}|ShoppingSystemCore\\ShoppingSystemCore.csproj|solutionrelative:shoppingsystemcore\\abstraction\\iapplicationconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87518DAD-54DD-4DB5-BC22-0B9D10962C7A}|ShoppingSystemServices\\ShoppingSystemServices.csproj|c:\\users\\faysa\\downloads\\shoppingsystem-20231018t091501z-001\\shoppingsystem\\shoppingsystem\\shoppingsystemservices\\shoppingsystemservices.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{87518DAD-54DD-4DB5-BC22-0B9D10962C7A}|ShoppingSystemServices\\ShoppingSystemServices.csproj|solutionrelative:shoppingsystemservices\\shoppingsystemservices.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F6F099D-FC13-430D-B0BC-B4BFFD72AD13}|ShoppingSystemData\\ShoppingSystemData.csproj|c:\\users\\faysa\\downloads\\shoppingsystem-20231018t091501z-001\\shoppingsystem\\shoppingsystem\\shoppingsystemdata\\globalusings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F6F099D-FC13-430D-B0BC-B4BFFD72AD13}|ShoppingSystemData\\ShoppingSystemData.csproj|solutionrelative:shoppingsystemdata\\globalusings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC336710-E36E-40CC-B2BF-1F0208C74686}|ShoppingSystemCore\\ShoppingSystemCore.csproj|c:\\users\\faysa\\downloads\\shoppingsystem-20231018t091501z-001\\shoppingsystem\\shoppingsystem\\shoppingsystemcore\\globalusings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC336710-E36E-40CC-B2BF-1F0208C74686}|ShoppingSystemCore\\ShoppingSystemCore.csproj|solutionrelative:shoppingsystemcore\\globalusings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC336710-E36E-40CC-B2BF-1F0208C74686}|ShoppingSystemCore\\ShoppingSystemCore.csproj|c:\\users\\faysa\\downloads\\shoppingsystem-20231018t091501z-001\\shoppingsystem\\shoppingsystem\\shoppingsystemcore\\shoppingsystemcore.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{DC336710-E36E-40CC-B2BF-1F0208C74686}|ShoppingSystemCore\\ShoppingSystemCore.csproj|solutionrelative:shoppingsystemcore\\shoppingsystemcore.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "HttpService.cs",
+              "DocumentMoniker": "C:\\Users\\faysa\\Downloads\\ShoppingSystem-20231018T091501Z-001\\ShoppingSystem\\ShoppingSystem\\ShoppingSystemWeb\\Services\\HttpService.cs",
+              "RelativeDocumentMoniker": "ShoppingSystemWeb\\Services\\HttpService.cs",
+              "ToolTip": "C:\\Users\\faysa\\Downloads\\ShoppingSystem-20231018T091501Z-001\\ShoppingSystem\\ShoppingSystem\\ShoppingSystemWeb\\Services\\HttpService.cs",
+              "RelativeToolTip": "ShoppingSystemWeb\\Services\\HttpService.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAcwBcAAABDAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T13:02:12.01Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "IApiService.cs",
+              "DocumentMoniker": "C:\\Users\\faysa\\Downloads\\ShoppingSystem-20231018T091501Z-001\\ShoppingSystem\\ShoppingSystem\\ShoppingSystemWeb\\Abstractions\\IApiService.cs",
+              "RelativeDocumentMoniker": "ShoppingSystemWeb\\Abstractions\\IApiService.cs",
+              "ToolTip": "C:\\Users\\faysa\\Downloads\\ShoppingSystem-20231018T091501Z-001\\ShoppingSystem\\ShoppingSystem\\ShoppingSystemWeb\\Abstractions\\IApiService.cs",
+              "RelativeToolTip": "ShoppingSystemWeb\\Abstractions\\IApiService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T13:02:12.012Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\faysa\\Downloads\\ShoppingSystem-20231018T091501Z-001\\ShoppingSystem\\ShoppingSystem\\ShoppingSystemAPI\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "ShoppingSystemAPI\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\faysa\\Downloads\\ShoppingSystem-20231018T091501Z-001\\ShoppingSystem\\ShoppingSystem\\ShoppingSystemAPI\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "ShoppingSystemAPI\\Controllers\\AuthController.cs",
+              "ViewState": "AQIAADsAAAAAAAAAAAAgwAgAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T13:02:12.015Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\faysa\\Downloads\\ShoppingSystem-20231018T091501Z-001\\ShoppingSystem\\ShoppingSystem\\ShoppingSystemData\\Repositories\\UserRepository.cs",
+              "RelativeDocumentMoniker": "ShoppingSystemData\\Repositories\\UserRepository.cs",
+              "ToolTip": "C:\\Users\\faysa\\Downloads\\ShoppingSystem-20231018T091501Z-001\\ShoppingSystem\\ShoppingSystem\\ShoppingSystemData\\Repositories\\UserRepository.cs",
+              "RelativeToolTip": "ShoppingSystemData\\Repositories\\UserRepository.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAYwAMAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T13:02:12.02Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "C:\\Users\\faysa\\Downloads\\ShoppingSystem-20231018T091501Z-001\\ShoppingSystem\\ShoppingSystem\\ShoppingSystemServices\\UserService.cs",
+              "RelativeDocumentMoniker": "ShoppingSystemServices\\UserService.cs",
+              "ToolTip": "C:\\Users\\faysa\\Downloads\\ShoppingSystem-20231018T091501Z-001\\ShoppingSystem\\ShoppingSystem\\ShoppingSystemServices\\UserService.cs",
+              "RelativeToolTip": "ShoppingSystemServices\\UserService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T13:02:12.023Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IUserService.cs",
+              "DocumentMoniker": "C:\\Users\\faysa\\Downloads\\ShoppingSystem-20231018T091501Z-001\\ShoppingSystem\\ShoppingSystem\\ShoppingSystemCore\\Abstraction\\Services\\IUserService.cs",
+              "RelativeDocumentMoniker": "ShoppingSystemCore\\Abstraction\\Services\\IUserService.cs",
+              "ToolTip": "C:\\Users\\faysa\\Downloads\\ShoppingSystem-20231018T091501Z-001\\ShoppingSystem\\ShoppingSystem\\ShoppingSystemCore\\Abstraction\\Services\\IUserService.cs",
+              "RelativeToolTip": "ShoppingSystemCore\\Abstraction\\Services\\IUserService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T13:02:12.026Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\faysa\\Downloads\\ShoppingSystem-20231018T091501Z-001\\ShoppingSystem\\ShoppingSystem\\ShoppingSystemWeb\\Program.cs",
+              "RelativeDocumentMoniker": "ShoppingSystemWeb\\Program.cs",
+              "ToolTip": "C:\\Users\\faysa\\Downloads\\ShoppingSystem-20231018T091501Z-001\\ShoppingSystem\\ShoppingSystem\\ShoppingSystemWeb\\Program.cs",
+              "RelativeToolTip": "ShoppingSystemWeb\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T13:02:12.031Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\faysa\\Downloads\\ShoppingSystem-20231018T091501Z-001\\ShoppingSystem\\ShoppingSystem\\ShoppingSystemAPI\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "ShoppingSystemAPI\\Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\faysa\\Downloads\\ShoppingSystem-20231018T091501Z-001\\ShoppingSystem\\ShoppingSystem\\ShoppingSystemAPI\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "ShoppingSystemAPI\\Controllers\\ProductController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACQAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T13:02:12.082Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "IHttpService.cs",
+              "DocumentMoniker": "C:\\Users\\faysa\\Downloads\\ShoppingSystem-20231018T091501Z-001\\ShoppingSystem\\ShoppingSystem\\ShoppingSystemWeb\\Abstractions\\IHttpService.cs",
+              "RelativeDocumentMoniker": "ShoppingSystemWeb\\Abstractions\\IHttpService.cs",
+              "ToolTip": "C:\\Users\\faysa\\Downloads\\ShoppingSystem-20231018T091501Z-001\\ShoppingSystem\\ShoppingSystem\\ShoppingSystemWeb\\Abstractions\\IHttpService.cs",
+              "RelativeToolTip": "ShoppingSystemWeb\\Abstractions\\IHttpService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T13:02:12.008Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "AuthService.cs",
+              "DocumentMoniker": "C:\\Users\\faysa\\Downloads\\ShoppingSystem-20231018T091501Z-001\\ShoppingSystem\\ShoppingSystem\\ShoppingSystemWeb\\Services\\AuthService.cs",
+              "RelativeDocumentMoniker": "ShoppingSystemWeb\\Services\\AuthService.cs",
+              "ToolTip": "C:\\Users\\faysa\\Downloads\\ShoppingSystem-20231018T091501Z-001\\ShoppingSystem\\ShoppingSystem\\ShoppingSystemWeb\\Services\\AuthService.cs",
+              "RelativeToolTip": "ShoppingSystemWeb\\Services\\AuthService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T13:02:12.005Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "IAuthService.cs",
+              "DocumentMoniker": "C:\\Users\\faysa\\Downloads\\ShoppingSystem-20231018T091501Z-001\\ShoppingSystem\\ShoppingSystem\\ShoppingSystemWeb\\Abstractions\\IAuthService.cs",
+              "RelativeDocumentMoniker": "ShoppingSystemWeb\\Abstractions\\IAuthService.cs",
+              "ToolTip": "C:\\Users\\faysa\\Downloads\\ShoppingSystem-20231018T091501Z-001\\ShoppingSystem\\ShoppingSystem\\ShoppingSystemWeb\\Abstractions\\IAuthService.cs",
+              "RelativeToolTip": "ShoppingSystemWeb\\Abstractions\\IAuthService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAQAAABLAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T13:02:12.002Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\faysa\\Downloads\\ShoppingSystem-20231018T091501Z-001\\ShoppingSystem\\ShoppingSystem\\ShoppingSystemWeb\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "ShoppingSystemWeb\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\faysa\\Downloads\\ShoppingSystem-20231018T091501Z-001\\ShoppingSystem\\ShoppingSystem\\ShoppingSystemWeb\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "ShoppingSystemWeb\\Controllers\\AuthController.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAkwBAAAABCAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T13:02:11.952Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\faysa\\Downloads\\ShoppingSystem-20231018T091501Z-001\\ShoppingSystem\\ShoppingSystem\\ShoppingSystemWeb\\Views\\Auth\\Index.cshtml",
+              "RelativeDocumentMoniker": "ShoppingSystemWeb\\Views\\Auth\\Index.cshtml",
+              "ToolTip": "C:\\Users\\faysa\\Downloads\\ShoppingSystem-20231018T091501Z-001\\ShoppingSystem\\ShoppingSystem\\ShoppingSystemWeb\\Views\\Auth\\Index.cshtml",
+              "RelativeToolTip": "ShoppingSystemWeb\\Views\\Auth\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-04T13:02:12.034Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "auth.js",
+              "DocumentMoniker": "C:\\Users\\faysa\\Downloads\\ShoppingSystem-20231018T091501Z-001\\ShoppingSystem\\ShoppingSystem\\ShoppingSystemWeb\\wwwroot\\js\\auth.js",
+              "RelativeDocumentMoniker": "ShoppingSystemWeb\\wwwroot\\js\\auth.js",
+              "ToolTip": "C:\\Users\\faysa\\Downloads\\ShoppingSystem-20231018T091501Z-001\\ShoppingSystem\\ShoppingSystem\\ShoppingSystemWeb\\wwwroot\\js\\auth.js",
+              "RelativeToolTip": "ShoppingSystemWeb\\wwwroot\\js\\auth.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-07-04T13:02:12.036Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\faysa\\Downloads\\ShoppingSystem-20231018T091501Z-001\\ShoppingSystem\\ShoppingSystem\\ShoppingSystemWeb\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "ShoppingSystemWeb\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\faysa\\Downloads\\ShoppingSystem-20231018T091501Z-001\\ShoppingSystem\\ShoppingSystem\\ShoppingSystemWeb\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "ShoppingSystemWeb\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAA0wBcAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T13:02:12.039Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\faysa\\Downloads\\ShoppingSystem-20231018T091501Z-001\\ShoppingSystem\\ShoppingSystem\\ShoppingSystemWeb\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "ShoppingSystemWeb\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\faysa\\Downloads\\ShoppingSystem-20231018T091501Z-001\\ShoppingSystem\\ShoppingSystem\\ShoppingSystemWeb\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "ShoppingSystemWeb\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAwAAAAAAAAAAIBfwCAAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-04T13:02:12.042Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\faysa\\Downloads\\ShoppingSystem-20231018T091501Z-001\\ShoppingSystem\\ShoppingSystem\\ShoppingSystemWeb\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "ShoppingSystemWeb\\Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\faysa\\Downloads\\ShoppingSystem-20231018T091501Z-001\\ShoppingSystem\\ShoppingSystem\\ShoppingSystemWeb\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "ShoppingSystemWeb\\Controllers\\ProductController.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAIA0wBgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T13:02:12.044Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\faysa\\Downloads\\ShoppingSystem-20231018T091501Z-001\\ShoppingSystem\\ShoppingSystem\\ShoppingSystemWeb\\Views\\Product\\Index.cshtml",
+              "RelativeDocumentMoniker": "ShoppingSystemWeb\\Views\\Product\\Index.cshtml",
+              "ToolTip": "C:\\Users\\faysa\\Downloads\\ShoppingSystem-20231018T091501Z-001\\ShoppingSystem\\ShoppingSystem\\ShoppingSystemWeb\\Views\\Product\\Index.cshtml",
+              "RelativeToolTip": "ShoppingSystemWeb\\Views\\Product\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-04T13:02:12.048Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\faysa\\Downloads\\ShoppingSystem-20231018T091501Z-001\\ShoppingSystem\\ShoppingSystem\\ShoppingSystemCore\\Models\\User.cs",
+              "RelativeDocumentMoniker": "ShoppingSystemCore\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\faysa\\Downloads\\ShoppingSystem-20231018T091501Z-001\\ShoppingSystem\\ShoppingSystem\\ShoppingSystemCore\\Models\\User.cs",
+              "RelativeToolTip": "ShoppingSystemCore\\Models\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAMAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T13:02:12.051Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "UserViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\faysa\\Downloads\\ShoppingSystem-20231018T091501Z-001\\ShoppingSystem\\ShoppingSystem\\ShoppingSystemWeb\\Models\\UserViewModel.cs",
+              "RelativeDocumentMoniker": "ShoppingSystemWeb\\Models\\UserViewModel.cs",
+              "ToolTip": "C:\\Users\\faysa\\Downloads\\ShoppingSystem-20231018T091501Z-001\\ShoppingSystem\\ShoppingSystem\\ShoppingSystemWeb\\Models\\UserViewModel.cs",
+              "RelativeToolTip": "ShoppingSystemWeb\\Models\\UserViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAgAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T13:02:12.053Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "AuthService.cs",
+              "DocumentMoniker": "C:\\Users\\faysa\\Downloads\\ShoppingSystem-20231018T091501Z-001\\ShoppingSystem\\ShoppingSystem\\ShoppingSystemServices\\AuthService.cs",
+              "RelativeDocumentMoniker": "ShoppingSystemServices\\AuthService.cs",
+              "ToolTip": "C:\\Users\\faysa\\Downloads\\ShoppingSystem-20231018T091501Z-001\\ShoppingSystem\\ShoppingSystem\\ShoppingSystemServices\\AuthService.cs",
+              "RelativeToolTip": "ShoppingSystemServices\\AuthService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T13:02:12.068Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "IAuthService.cs",
+              "DocumentMoniker": "C:\\Users\\faysa\\Downloads\\ShoppingSystem-20231018T091501Z-001\\ShoppingSystem\\ShoppingSystem\\ShoppingSystemCore\\Abstraction\\Services\\IAuthService.cs",
+              "RelativeDocumentMoniker": "ShoppingSystemCore\\Abstraction\\Services\\IAuthService.cs",
+              "ToolTip": "C:\\Users\\faysa\\Downloads\\ShoppingSystem-20231018T091501Z-001\\ShoppingSystem\\ShoppingSystem\\ShoppingSystemCore\\Abstraction\\Services\\IAuthService.cs",
+              "RelativeToolTip": "ShoppingSystemCore\\Abstraction\\Services\\IAuthService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T13:02:12.071Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\faysa\\Downloads\\ShoppingSystem-20231018T091501Z-001\\ShoppingSystem\\ShoppingSystem\\ShoppingSystemWeb\\Views\\ManageProduct\\Index.cshtml",
+              "RelativeDocumentMoniker": "ShoppingSystemWeb\\Views\\ManageProduct\\Index.cshtml",
+              "ToolTip": "C:\\Users\\faysa\\Downloads\\ShoppingSystem-20231018T091501Z-001\\ShoppingSystem\\ShoppingSystem\\ShoppingSystemWeb\\Views\\ManageProduct\\Index.cshtml",
+              "RelativeToolTip": "ShoppingSystemWeb\\Views\\ManageProduct\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-04T13:02:12.074Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\faysa\\Downloads\\ShoppingSystem-20231018T091501Z-001\\ShoppingSystem\\ShoppingSystem\\ShoppingSystemCore\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "ShoppingSystemCore\\Models\\Product.cs",
+              "ToolTip": "C:\\Users\\faysa\\Downloads\\ShoppingSystem-20231018T091501Z-001\\ShoppingSystem\\ShoppingSystem\\ShoppingSystemCore\\Models\\Product.cs",
+              "RelativeToolTip": "ShoppingSystemCore\\Models\\Product.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T13:02:12.077Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "ProductViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\faysa\\Downloads\\ShoppingSystem-20231018T091501Z-001\\ShoppingSystem\\ShoppingSystem\\ShoppingSystemWeb\\Models\\ProductViewModel.cs",
+              "RelativeDocumentMoniker": "ShoppingSystemWeb\\Models\\ProductViewModel.cs",
+              "ToolTip": "C:\\Users\\faysa\\Downloads\\ShoppingSystem-20231018T091501Z-001\\ShoppingSystem\\ShoppingSystem\\ShoppingSystemWeb\\Models\\ProductViewModel.cs",
+              "RelativeToolTip": "ShoppingSystemWeb\\Models\\ProductViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T13:02:12.08Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "IProductRepository.cs",
+              "DocumentMoniker": "C:\\Users\\faysa\\Downloads\\ShoppingSystem-20231018T091501Z-001\\ShoppingSystem\\ShoppingSystem\\ShoppingSystemCore\\Abstraction\\Repositories\\IProductRepository.cs",
+              "RelativeDocumentMoniker": "ShoppingSystemCore\\Abstraction\\Repositories\\IProductRepository.cs",
+              "ToolTip": "C:\\Users\\faysa\\Downloads\\ShoppingSystem-20231018T091501Z-001\\ShoppingSystem\\ShoppingSystem\\ShoppingSystemCore\\Abstraction\\Repositories\\IProductRepository.cs",
+              "RelativeToolTip": "ShoppingSystemCore\\Abstraction\\Repositories\\IProductRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T13:02:12.085Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "ProductRepository.cs",
+              "DocumentMoniker": "C:\\Users\\faysa\\Downloads\\ShoppingSystem-20231018T091501Z-001\\ShoppingSystem\\ShoppingSystem\\ShoppingSystemData\\Repositories\\ProductRepository.cs",
+              "RelativeDocumentMoniker": "ShoppingSystemData\\Repositories\\ProductRepository.cs",
+              "ToolTip": "C:\\Users\\faysa\\Downloads\\ShoppingSystem-20231018T091501Z-001\\ShoppingSystem\\ShoppingSystem\\ShoppingSystemData\\Repositories\\ProductRepository.cs",
+              "RelativeToolTip": "ShoppingSystemData\\Repositories\\ProductRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T13:02:12.089Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ProductService.cs",
+              "DocumentMoniker": "C:\\Users\\faysa\\Downloads\\ShoppingSystem-20231018T091501Z-001\\ShoppingSystem\\ShoppingSystem\\ShoppingSystemServices\\ProductService.cs",
+              "RelativeDocumentMoniker": "ShoppingSystemServices\\ProductService.cs",
+              "ToolTip": "C:\\Users\\faysa\\Downloads\\ShoppingSystem-20231018T091501Z-001\\ShoppingSystem\\ShoppingSystem\\ShoppingSystemServices\\ProductService.cs",
+              "RelativeToolTip": "ShoppingSystemServices\\ProductService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T13:02:12.092Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "IProductService.cs",
+              "DocumentMoniker": "C:\\Users\\faysa\\Downloads\\ShoppingSystem-20231018T091501Z-001\\ShoppingSystem\\ShoppingSystem\\ShoppingSystemCore\\Abstraction\\Services\\IProductService.cs",
+              "RelativeDocumentMoniker": "ShoppingSystemCore\\Abstraction\\Services\\IProductService.cs",
+              "ToolTip": "C:\\Users\\faysa\\Downloads\\ShoppingSystem-20231018T091501Z-001\\ShoppingSystem\\ShoppingSystem\\ShoppingSystemCore\\Abstraction\\Services\\IProductService.cs",
+              "RelativeToolTip": "ShoppingSystemCore\\Abstraction\\Services\\IProductService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T13:02:12.095Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "IProductService.cs",
+              "DocumentMoniker": "C:\\Users\\faysa\\Downloads\\ShoppingSystem-20231018T091501Z-001\\ShoppingSystem\\ShoppingSystem\\ShoppingSystemWeb\\Abstractions\\IProductService.cs",
+              "RelativeDocumentMoniker": "ShoppingSystemWeb\\Abstractions\\IProductService.cs",
+              "ToolTip": "C:\\Users\\faysa\\Downloads\\ShoppingSystem-20231018T091501Z-001\\ShoppingSystem\\ShoppingSystem\\ShoppingSystemWeb\\Abstractions\\IProductService.cs",
+              "RelativeToolTip": "ShoppingSystemWeb\\Abstractions\\IProductService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T13:02:12.098Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "ProductService.cs",
+              "DocumentMoniker": "C:\\Users\\faysa\\Downloads\\ShoppingSystem-20231018T091501Z-001\\ShoppingSystem\\ShoppingSystem\\ShoppingSystemWeb\\Services\\ProductService.cs",
+              "RelativeDocumentMoniker": "ShoppingSystemWeb\\Services\\ProductService.cs",
+              "ToolTip": "C:\\Users\\faysa\\Downloads\\ShoppingSystem-20231018T091501Z-001\\ShoppingSystem\\ShoppingSystem\\ShoppingSystemWeb\\Services\\ProductService.cs",
+              "RelativeToolTip": "ShoppingSystemWeb\\Services\\ProductService.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAIwCEAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T13:02:12.101Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CustomResourceFilterAttribute.cs",
+              "DocumentMoniker": "C:\\Users\\faysa\\Downloads\\ShoppingSystem-20231018T091501Z-001\\ShoppingSystem\\ShoppingSystem\\ShoppingSystemWeb\\Filters\\CustomResourceFilterAttribute.cs",
+              "RelativeDocumentMoniker": "ShoppingSystemWeb\\Filters\\CustomResourceFilterAttribute.cs",
+              "ToolTip": "C:\\Users\\faysa\\Downloads\\ShoppingSystem-20231018T091501Z-001\\ShoppingSystem\\ShoppingSystem\\ShoppingSystemWeb\\Filters\\CustomResourceFilterAttribute.cs",
+              "RelativeToolTip": "ShoppingSystemWeb\\Filters\\CustomResourceFilterAttribute.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAxwCEAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T13:02:12.104Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CustomActionFilterAttribute.cs",
+              "DocumentMoniker": "C:\\Users\\faysa\\Downloads\\ShoppingSystem-20231018T091501Z-001\\ShoppingSystem\\ShoppingSystem\\ShoppingSystemWeb\\Filters\\CustomActionFilterAttribute.cs",
+              "RelativeDocumentMoniker": "ShoppingSystemWeb\\Filters\\CustomActionFilterAttribute.cs",
+              "ToolTip": "C:\\Users\\faysa\\Downloads\\ShoppingSystem-20231018T091501Z-001\\ShoppingSystem\\ShoppingSystem\\ShoppingSystemWeb\\Filters\\CustomActionFilterAttribute.cs",
+              "RelativeToolTip": "ShoppingSystemWeb\\Filters\\CustomActionFilterAttribute.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAzwCQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T13:02:12.107Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CustomResultFilterAttribute.cs",
+              "DocumentMoniker": "C:\\Users\\faysa\\Downloads\\ShoppingSystem-20231018T091501Z-001\\ShoppingSystem\\ShoppingSystem\\ShoppingSystemWeb\\Filters\\CustomResultFilterAttribute.cs",
+              "RelativeDocumentMoniker": "ShoppingSystemWeb\\Filters\\CustomResultFilterAttribute.cs",
+              "ToolTip": "C:\\Users\\faysa\\Downloads\\ShoppingSystem-20231018T091501Z-001\\ShoppingSystem\\ShoppingSystem\\ShoppingSystemWeb\\Filters\\CustomResultFilterAttribute.cs",
+              "RelativeToolTip": "ShoppingSystemWeb\\Filters\\CustomResultFilterAttribute.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAqwBcAAABPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T13:02:12.11Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CustomExceptionFilterAttribute.cs",
+              "DocumentMoniker": "C:\\Users\\faysa\\Downloads\\ShoppingSystem-20231018T091501Z-001\\ShoppingSystem\\ShoppingSystem\\ShoppingSystemWeb\\Filters\\CustomExceptionFilterAttribute.cs",
+              "RelativeDocumentMoniker": "ShoppingSystemWeb\\Filters\\CustomExceptionFilterAttribute.cs",
+              "ToolTip": "C:\\Users\\faysa\\Downloads\\ShoppingSystem-20231018T091501Z-001\\ShoppingSystem\\ShoppingSystem\\ShoppingSystemWeb\\Filters\\CustomExceptionFilterAttribute.cs",
+              "RelativeToolTip": "ShoppingSystemWeb\\Filters\\CustomExceptionFilterAttribute.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAYwCAAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T13:02:12.113Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ErrorMessageModel.cs",
+              "DocumentMoniker": "C:\\Users\\faysa\\Downloads\\ShoppingSystem-20231018T091501Z-001\\ShoppingSystem\\ShoppingSystem\\ShoppingSystemWeb\\Models\\ErrorMessageModel.cs",
+              "RelativeDocumentMoniker": "ShoppingSystemWeb\\Models\\ErrorMessageModel.cs",
+              "ToolTip": "C:\\Users\\faysa\\Downloads\\ShoppingSystem-20231018T091501Z-001\\ShoppingSystem\\ShoppingSystem\\ShoppingSystemWeb\\Models\\ErrorMessageModel.cs",
+              "RelativeToolTip": "ShoppingSystemWeb\\Models\\ErrorMessageModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T13:02:12.116Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\faysa\\Downloads\\ShoppingSystem-20231018T091501Z-001\\ShoppingSystem\\ShoppingSystem\\ShoppingSystemWeb\\Views\\Error\\Index.cshtml",
+              "RelativeDocumentMoniker": "ShoppingSystemWeb\\Views\\Error\\Index.cshtml",
+              "ToolTip": "C:\\Users\\faysa\\Downloads\\ShoppingSystem-20231018T091501Z-001\\ShoppingSystem\\ShoppingSystem\\ShoppingSystemWeb\\Views\\Error\\Index.cshtml",
+              "RelativeToolTip": "ShoppingSystemWeb\\Views\\Error\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-04T13:02:12.119Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "ErrorController.cs",
+              "DocumentMoniker": "C:\\Users\\faysa\\Downloads\\ShoppingSystem-20231018T091501Z-001\\ShoppingSystem\\ShoppingSystem\\ShoppingSystemWeb\\Controllers\\ErrorController.cs",
+              "RelativeDocumentMoniker": "ShoppingSystemWeb\\Controllers\\ErrorController.cs",
+              "ToolTip": "C:\\Users\\faysa\\Downloads\\ShoppingSystem-20231018T091501Z-001\\ShoppingSystem\\ShoppingSystem\\ShoppingSystemWeb\\Controllers\\ErrorController.cs",
+              "RelativeToolTip": "ShoppingSystemWeb\\Controllers\\ErrorController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T13:02:12.122Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ManageProductController.cs",
+              "DocumentMoniker": "C:\\Users\\faysa\\Downloads\\ShoppingSystem-20231018T091501Z-001\\ShoppingSystem\\ShoppingSystem\\ShoppingSystemWeb\\Controllers\\ManageProductController.cs",
+              "RelativeDocumentMoniker": "ShoppingSystemWeb\\Controllers\\ManageProductController.cs",
+              "ToolTip": "C:\\Users\\faysa\\Downloads\\ShoppingSystem-20231018T091501Z-001\\ShoppingSystem\\ShoppingSystem\\ShoppingSystemWeb\\Controllers\\ManageProductController.cs",
+              "RelativeToolTip": "ShoppingSystemWeb\\Controllers\\ManageProductController.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAmwBEAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T13:02:12.125Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "UnitOfWork.cs",
+              "DocumentMoniker": "C:\\Users\\faysa\\Downloads\\ShoppingSystem-20231018T091501Z-001\\ShoppingSystem\\ShoppingSystem\\ShoppingSystemData\\UnitOfWork.cs",
+              "RelativeDocumentMoniker": "ShoppingSystemData\\UnitOfWork.cs",
+              "ToolTip": "C:\\Users\\faysa\\Downloads\\ShoppingSystem-20231018T091501Z-001\\ShoppingSystem\\ShoppingSystem\\ShoppingSystemData\\UnitOfWork.cs",
+              "RelativeToolTip": "ShoppingSystemData\\UnitOfWork.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAwwDQAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T13:02:12.128Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "ApplicationConfig.cs",
+              "DocumentMoniker": "C:\\Users\\faysa\\Downloads\\ShoppingSystem-20231018T091501Z-001\\ShoppingSystem\\ShoppingSystem\\ShoppingSystemAPI\\ApplicationConfig.cs",
+              "RelativeDocumentMoniker": "ShoppingSystemAPI\\ApplicationConfig.cs",
+              "ToolTip": "C:\\Users\\faysa\\Downloads\\ShoppingSystem-20231018T091501Z-001\\ShoppingSystem\\ShoppingSystem\\ShoppingSystemAPI\\ApplicationConfig.cs",
+              "RelativeToolTip": "ShoppingSystemAPI\\ApplicationConfig.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAIAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T13:02:12.131Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "BaseRepository.cs",
+              "DocumentMoniker": "C:\\Users\\faysa\\Downloads\\ShoppingSystem-20231018T091501Z-001\\ShoppingSystem\\ShoppingSystem\\ShoppingSystemData\\Repositories\\BaseRepository.cs",
+              "RelativeDocumentMoniker": "ShoppingSystemData\\Repositories\\BaseRepository.cs",
+              "ToolTip": "C:\\Users\\faysa\\Downloads\\ShoppingSystem-20231018T091501Z-001\\ShoppingSystem\\ShoppingSystem\\ShoppingSystemData\\Repositories\\BaseRepository.cs",
+              "RelativeToolTip": "ShoppingSystemData\\Repositories\\BaseRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAQAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T13:02:12.134Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "IUserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\faysa\\Downloads\\ShoppingSystem-20231018T091501Z-001\\ShoppingSystem\\ShoppingSystem\\ShoppingSystemCore\\Abstraction\\Repositories\\IUserRepository.cs",
+              "RelativeDocumentMoniker": "ShoppingSystemCore\\Abstraction\\Repositories\\IUserRepository.cs",
+              "ToolTip": "C:\\Users\\faysa\\Downloads\\ShoppingSystem-20231018T091501Z-001\\ShoppingSystem\\ShoppingSystem\\ShoppingSystemCore\\Abstraction\\Repositories\\IUserRepository.cs",
+              "RelativeToolTip": "ShoppingSystemCore\\Abstraction\\Repositories\\IUserRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T13:02:12.137Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "site.js",
+              "DocumentMoniker": "C:\\Users\\faysa\\Downloads\\ShoppingSystem-20231018T091501Z-001\\ShoppingSystem\\ShoppingSystem\\ShoppingSystemWeb\\wwwroot\\js\\site.js",
+              "RelativeDocumentMoniker": "ShoppingSystemWeb\\wwwroot\\js\\site.js",
+              "ToolTip": "C:\\Users\\faysa\\Downloads\\ShoppingSystem-20231018T091501Z-001\\ShoppingSystem\\ShoppingSystem\\ShoppingSystemWeb\\wwwroot\\js\\site.js",
+              "RelativeToolTip": "ShoppingSystemWeb\\wwwroot\\js\\site.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-07-04T13:02:12.141Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "GlobalUsings.cs",
+              "DocumentMoniker": "C:\\Users\\faysa\\Downloads\\ShoppingSystem-20231018T091501Z-001\\ShoppingSystem\\ShoppingSystem\\ShoppingSystemWeb\\GlobalUsings.cs",
+              "RelativeDocumentMoniker": "ShoppingSystemWeb\\GlobalUsings.cs",
+              "ToolTip": "C:\\Users\\faysa\\Downloads\\ShoppingSystem-20231018T091501Z-001\\ShoppingSystem\\ShoppingSystem\\ShoppingSystemWeb\\GlobalUsings.cs",
+              "RelativeToolTip": "ShoppingSystemWeb\\GlobalUsings.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T13:02:12.144Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\faysa\\Downloads\\ShoppingSystem-20231018T091501Z-001\\ShoppingSystem\\ShoppingSystem\\ShoppingSystemWeb\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "ShoppingSystemWeb\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\faysa\\Downloads\\ShoppingSystem-20231018T091501Z-001\\ShoppingSystem\\ShoppingSystem\\ShoppingSystemWeb\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "ShoppingSystemWeb\\Views\\Home\\Privacy.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-04T13:02:12.147Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "GlobalUsings.cs",
+              "DocumentMoniker": "C:\\Users\\faysa\\Downloads\\ShoppingSystem-20231018T091501Z-001\\ShoppingSystem\\ShoppingSystem\\ShoppingSystemServices\\GlobalUsings.cs",
+              "RelativeDocumentMoniker": "ShoppingSystemServices\\GlobalUsings.cs",
+              "ToolTip": "C:\\Users\\faysa\\Downloads\\ShoppingSystem-20231018T091501Z-001\\ShoppingSystem\\ShoppingSystem\\ShoppingSystemServices\\GlobalUsings.cs",
+              "RelativeToolTip": "ShoppingSystemServices\\GlobalUsings.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T13:02:12.15Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\faysa\\Downloads\\ShoppingSystem-20231018T091501Z-001\\ShoppingSystem\\ShoppingSystem\\ShoppingSystemWeb\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "ShoppingSystemWeb\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\faysa\\Downloads\\ShoppingSystem-20231018T091501Z-001\\ShoppingSystem\\ShoppingSystem\\ShoppingSystemWeb\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "ShoppingSystemWeb\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-04T13:02:12.154Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\faysa\\Downloads\\ShoppingSystem-20231018T091501Z-001\\ShoppingSystem\\ShoppingSystem\\ShoppingSystemAPI\\Program.cs",
+              "RelativeDocumentMoniker": "ShoppingSystemAPI\\Program.cs",
+              "ToolTip": "C:\\Users\\faysa\\Downloads\\ShoppingSystem-20231018T091501Z-001\\ShoppingSystem\\ShoppingSystem\\ShoppingSystemAPI\\Program.cs",
+              "RelativeToolTip": "ShoppingSystemAPI\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T13:02:12.157Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "IApplicationConfig.cs",
+              "DocumentMoniker": "C:\\Users\\faysa\\Downloads\\ShoppingSystem-20231018T091501Z-001\\ShoppingSystem\\ShoppingSystem\\ShoppingSystemCore\\Abstraction\\IApplicationConfig.cs",
+              "RelativeDocumentMoniker": "ShoppingSystemCore\\Abstraction\\IApplicationConfig.cs",
+              "ToolTip": "C:\\Users\\faysa\\Downloads\\ShoppingSystem-20231018T091501Z-001\\ShoppingSystem\\ShoppingSystem\\ShoppingSystemCore\\Abstraction\\IApplicationConfig.cs",
+              "RelativeToolTip": "ShoppingSystemCore\\Abstraction\\IApplicationConfig.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T13:02:12.16Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "IUnitOfWork.cs",
+              "DocumentMoniker": "C:\\Users\\faysa\\Downloads\\ShoppingSystem-20231018T091501Z-001\\ShoppingSystem\\ShoppingSystem\\ShoppingSystemCore\\Abstraction\\IUnitOfWork.cs",
+              "RelativeDocumentMoniker": "ShoppingSystemCore\\Abstraction\\IUnitOfWork.cs",
+              "ToolTip": "C:\\Users\\faysa\\Downloads\\ShoppingSystem-20231018T091501Z-001\\ShoppingSystem\\ShoppingSystem\\ShoppingSystemCore\\Abstraction\\IUnitOfWork.cs",
+              "RelativeToolTip": "ShoppingSystemCore\\Abstraction\\IUnitOfWork.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T13:02:12.163Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\faysa\\Downloads\\ShoppingSystem-20231018T091501Z-001\\ShoppingSystem\\ShoppingSystem\\ShoppingSystemWeb\\appsettings.json",
+              "RelativeDocumentMoniker": "ShoppingSystemWeb\\appsettings.json",
+              "ToolTip": "C:\\Users\\faysa\\Downloads\\ShoppingSystem-20231018T091501Z-001\\ShoppingSystem\\ShoppingSystem\\ShoppingSystemWeb\\appsettings.json",
+              "RelativeToolTip": "ShoppingSystemWeb\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-04T13:02:12.167Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "ApiService.cs",
+              "DocumentMoniker": "C:\\Users\\faysa\\Downloads\\ShoppingSystem-20231018T091501Z-001\\ShoppingSystem\\ShoppingSystem\\ShoppingSystemWeb\\Services\\ApiService.cs",
+              "RelativeDocumentMoniker": "ShoppingSystemWeb\\Services\\ApiService.cs",
+              "ToolTip": "C:\\Users\\faysa\\Downloads\\ShoppingSystem-20231018T091501Z-001\\ShoppingSystem\\ShoppingSystem\\ShoppingSystemWeb\\Services\\ApiService.cs",
+              "RelativeToolTip": "ShoppingSystemWeb\\Services\\ApiService.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAkwA0AAABFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T13:02:12.17Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "ShoppingSystemWeb.csproj",
+              "DocumentMoniker": "C:\\Users\\faysa\\Downloads\\ShoppingSystem-20231018T091501Z-001\\ShoppingSystem\\ShoppingSystem\\ShoppingSystemWeb\\ShoppingSystemWeb.csproj",
+              "RelativeDocumentMoniker": "ShoppingSystemWeb\\ShoppingSystemWeb.csproj",
+              "ToolTip": "C:\\Users\\faysa\\Downloads\\ShoppingSystem-20231018T091501Z-001\\ShoppingSystem\\ShoppingSystem\\ShoppingSystemWeb\\ShoppingSystemWeb.csproj",
+              "RelativeToolTip": "ShoppingSystemWeb\\ShoppingSystemWeb.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-07-04T13:02:12.175Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\faysa\\Downloads\\ShoppingSystem-20231018T091501Z-001\\ShoppingSystem\\ShoppingSystem\\ShoppingSystemAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "ShoppingSystemAPI\\appsettings.json",
+              "ToolTip": "C:\\Users\\faysa\\Downloads\\ShoppingSystem-20231018T091501Z-001\\ShoppingSystem\\ShoppingSystem\\ShoppingSystemAPI\\appsettings.json",
+              "RelativeToolTip": "ShoppingSystemAPI\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-04T13:02:12.311Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "ShoppingSystemServices.csproj",
+              "DocumentMoniker": "C:\\Users\\faysa\\Downloads\\ShoppingSystem-20231018T091501Z-001\\ShoppingSystem\\ShoppingSystem\\ShoppingSystemServices\\ShoppingSystemServices.csproj",
+              "RelativeDocumentMoniker": "ShoppingSystemServices\\ShoppingSystemServices.csproj",
+              "ToolTip": "C:\\Users\\faysa\\Downloads\\ShoppingSystem-20231018T091501Z-001\\ShoppingSystem\\ShoppingSystem\\ShoppingSystemServices\\ShoppingSystemServices.csproj",
+              "RelativeToolTip": "ShoppingSystemServices\\ShoppingSystemServices.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-07-04T13:02:12.316Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "GlobalUsings.cs",
+              "DocumentMoniker": "C:\\Users\\faysa\\Downloads\\ShoppingSystem-20231018T091501Z-001\\ShoppingSystem\\ShoppingSystem\\ShoppingSystemAPI\\GlobalUsings.cs",
+              "RelativeDocumentMoniker": "ShoppingSystemAPI\\GlobalUsings.cs",
+              "ToolTip": "C:\\Users\\faysa\\Downloads\\ShoppingSystem-20231018T091501Z-001\\ShoppingSystem\\ShoppingSystem\\ShoppingSystemAPI\\GlobalUsings.cs",
+              "RelativeToolTip": "ShoppingSystemAPI\\GlobalUsings.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T13:02:12.324Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "GlobalUsings.cs",
+              "DocumentMoniker": "C:\\Users\\faysa\\Downloads\\ShoppingSystem-20231018T091501Z-001\\ShoppingSystem\\ShoppingSystem\\ShoppingSystemData\\GlobalUsings.cs",
+              "RelativeDocumentMoniker": "ShoppingSystemData\\GlobalUsings.cs",
+              "ToolTip": "C:\\Users\\faysa\\Downloads\\ShoppingSystem-20231018T091501Z-001\\ShoppingSystem\\ShoppingSystem\\ShoppingSystemData\\GlobalUsings.cs",
+              "RelativeToolTip": "ShoppingSystemData\\GlobalUsings.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T13:02:12.327Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "ShoppingSystemCore.csproj",
+              "DocumentMoniker": "C:\\Users\\faysa\\Downloads\\ShoppingSystem-20231018T091501Z-001\\ShoppingSystem\\ShoppingSystem\\ShoppingSystemCore\\ShoppingSystemCore.csproj",
+              "RelativeDocumentMoniker": "ShoppingSystemCore\\ShoppingSystemCore.csproj",
+              "ToolTip": "C:\\Users\\faysa\\Downloads\\ShoppingSystem-20231018T091501Z-001\\ShoppingSystem\\ShoppingSystem\\ShoppingSystemCore\\ShoppingSystemCore.csproj",
+              "RelativeToolTip": "ShoppingSystemCore\\ShoppingSystemCore.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-07-04T13:02:12.331Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "GlobalUsings.cs",
+              "DocumentMoniker": "C:\\Users\\faysa\\Downloads\\ShoppingSystem-20231018T091501Z-001\\ShoppingSystem\\ShoppingSystem\\ShoppingSystemCore\\GlobalUsings.cs",
+              "RelativeDocumentMoniker": "ShoppingSystemCore\\GlobalUsings.cs",
+              "ToolTip": "C:\\Users\\faysa\\Downloads\\ShoppingSystem-20231018T091501Z-001\\ShoppingSystem\\ShoppingSystem\\ShoppingSystemCore\\GlobalUsings.cs",
+              "RelativeToolTip": "ShoppingSystemCore\\GlobalUsings.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T13:02:12.335Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

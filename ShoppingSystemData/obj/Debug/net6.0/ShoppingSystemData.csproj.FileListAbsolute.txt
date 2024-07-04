@@ -1,0 +1,15 @@
+C:\Goal\ShoppingSystem\ShoppingSystem\ShoppingSystemData\bin\Debug\net6.0\ShoppingSystemData.deps.json
+C:\Goal\ShoppingSystem\ShoppingSystem\ShoppingSystemData\bin\Debug\net6.0\ShoppingSystemData.dll
+C:\Goal\ShoppingSystem\ShoppingSystem\ShoppingSystemData\bin\Debug\net6.0\ShoppingSystemData.pdb
+C:\Goal\ShoppingSystem\ShoppingSystem\ShoppingSystemData\bin\Debug\net6.0\ShoppingSystemCore.dll
+C:\Goal\ShoppingSystem\ShoppingSystem\ShoppingSystemData\bin\Debug\net6.0\ShoppingSystemCore.pdb
+C:\Goal\ShoppingSystem\ShoppingSystem\ShoppingSystemData\obj\Debug\net6.0\ShoppingSystemData.csproj.AssemblyReference.cache
+C:\Goal\ShoppingSystem\ShoppingSystem\ShoppingSystemData\obj\Debug\net6.0\ShoppingSystemData.GeneratedMSBuildEditorConfig.editorconfig
+C:\Goal\ShoppingSystem\ShoppingSystem\ShoppingSystemData\obj\Debug\net6.0\ShoppingSystemData.AssemblyInfoInputs.cache
+C:\Goal\ShoppingSystem\ShoppingSystem\ShoppingSystemData\obj\Debug\net6.0\ShoppingSystemData.AssemblyInfo.cs
+C:\Goal\ShoppingSystem\ShoppingSystem\ShoppingSystemData\obj\Debug\net6.0\ShoppingSystemData.csproj.CoreCompileInputs.cache
+C:\Goal\ShoppingSystem\ShoppingSystem\ShoppingSystemData\obj\Debug\net6.0\ShoppingSystemData.csproj.CopyComplete
+C:\Goal\ShoppingSystem\ShoppingSystem\ShoppingSystemData\obj\Debug\net6.0\ShoppingSystemData.dll
+C:\Goal\ShoppingSystem\ShoppingSystem\ShoppingSystemData\obj\Debug\net6.0\refint\ShoppingSystemData.dll
+C:\Goal\ShoppingSystem\ShoppingSystem\ShoppingSystemData\obj\Debug\net6.0\ShoppingSystemData.pdb
+C:\Goal\ShoppingSystem\ShoppingSystem\ShoppingSystemData\obj\Debug\net6.0\ref\ShoppingSystemData.dll

@@ -1,0 +1,14 @@
+﻿global using ShoppingSystemWeb;
+global using ShoppingSystemWeb.Abstractions;
+global using ShoppingSystemWeb.Services;
+global using ShoppingSystemWeb.Models;
+global using ShoppingSystemWeb.Filters;
+global using System.Text.Json;
+global using Microsoft.AspNetCore.Authentication;
+global using Microsoft.AspNetCore.Authentication.Cookies;
+global using System.Security.Claims;
+global using Microsoft.AspNetCore.Authorization;
+global using Microsoft.AspNetCore.Mvc;
+global using Microsoft.AspNetCore.Mvc.Filters;
+global using Microsoft.AspNetCore.Mvc.ViewFeatures;
+global using Microsoft.AspNetCore.Mvc.ViewFeatures.Infrastructure;
